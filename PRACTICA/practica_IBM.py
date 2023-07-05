@@ -91,7 +91,7 @@ def get_data():
 
     # ERRORES EN CASO DE QUE SE INTRODUZCA ALGÚN CARACTER QUE NO SEA UN ENTERO DEL 1 AL 9
     except ValueError:
-      messagebox.showinfo(message="Debes introducir un número entero del 1 al 9", title="ERROR DE ENTRADA")
+      messagebox.showinfo(message="Debes introducir NÚMEROS", title="ERROR DE ENTRADA")
     
     except ZeroDivisionError:
       messagebox.showinfo(message="Valores introducidos muy elevados para ser representados en la matriz.\nPor favor, introduce valores inferiores de '25' para las filas \ny de '40' para las columnas", title="VALORES ELEVADOS") 
