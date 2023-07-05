@@ -9,4 +9,4 @@ def codigo_3(number):
 
     return a
 
-codigo_3(number)
+print(codigo_3(8))
