@@ -21,6 +21,9 @@ El programa deberá incluir las siguientes características:
   para N, también que incluya comentarios para explicar el código y finalmente que se hagan los test unitarios 
   necesarios para asegurar que el resultado es el esperado. 
 
+PALETA DE COLORES DE IBM = BLUE PALLETE, CIAN PALLETE, COOL GREY, ORANGE PALLETE, TEAL PALLETE.
+TIPOGRAFIA DE IBM = IBM Plex Sans Seminegrita, IBM Plex Sans-Light, IBM Plex Sans-Bold.
+
 """ 
 import numpy as np
 
@@ -43,7 +46,7 @@ miFrame_0.config(background="#d9fbfb", height=150, width= 700, padx=10, pady=10)
 miFrame_0.pack(side="top", fill="x")
 logo_ibm = PhotoImage("ibm-logo-6.png")
 
-#label_logo = Label(miFrame_0, image=logo_ibm)
+
 label_titulo = Label(miFrame_0, text="Programa del curso de IBM para Python", background="#d9fbfb", fg= "navy",
                      font=("IBM Plex Sans Seminegrita",16))
 label_titulo.pack(anchor= "center")
@@ -56,7 +59,7 @@ def get_data():
       num2 = int(colu_entry.get())
       matriz = np.random.randint(0,9,size=(num1, num2))
 
-      # LLAMADA A ERROR EN CASO DE SOBREPASAR VALORES ADMITIDOS EN LA MATRIZ (POR TAMAÑO DE INTERFAZ)
+    # LLAMADA A ERROR EN CASO DE SOBREPASAR VALORES ADMITIDOS EN LA MATRIZ (POR TAMAÑO DE INTERFAZ)
       if num1 > 25 or num2 > 40:
         raise ZeroDivisionError      
       
@@ -82,10 +85,10 @@ def get_data():
       total_sum = np.sum(matriz)
 
     # MOSTRAR RESULTADOS
-      column_result = Label(miFrame_3, text="SUMA DE COLUMNAS: \n" + str(column_sum), font=("IBM Plex Sans Seminegrita", 12), background="#012749", fg="#ffb784", pady=4, wraplength=350)
-      column_result.pack()
-      row_result = Label(miFrame_3, text="SUMA DE FILAS: \n" + str(row_sum), font=("IBM Plex Sans Seminegrita", 12), background="#012749", fg="#ffb784",pady=100, wraplength=350)
+      row_result = Label(miFrame_3, text='SUMA DE FILAS: ' +  str(len(row_sum)) + '\n \n'  +  str(row_sum), font=("IBM Plex Sans Seminegrita", 12), background="#012749", fg="#ffb784",pady=4, wraplength=350)
       row_result.pack()
+      column_result = Label(miFrame_3, text='SUMA DE COLUMNAS: ' + str(len(column_sum)) + '\n \n'  + str(column_sum), font=("IBM Plex Sans Seminegrita", 12), background="#012749", fg="#ffb784", pady=100, wraplength=350)
+      column_result.pack()
       total_result = Label(miFrame_3, text="SUMA TOTAL: " + str(total_sum), font=("IBM Plex Sans Seminegrita", 12), background="#012749", fg="#ffb784", wraplength=150)
       total_result.pack()
 
