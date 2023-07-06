@@ -18,10 +18,10 @@ Este proyecto consiste en un programa en Python que genera una matriz de tamaño
 
 **Comentarios y test unitarios:** El programa incluye comentarios explicativos en el código y se realizan los test unitarios necesarios para asegurar el resultado esperado.
 
-##Paleta de colores de IBM
+## Paleta de colores de IBM
 
 El proyecto utiliza la paleta de colores de IBM, que incluye: Blue Palette, Cian Palette, Cool Grey, Orange Palette y Teal Palette.
 
-##Tipografía de IBM
+## Tipografía de IBM
 
 La tipografía utilizada en este proyecto es IBM Plex Sans Seminegrita, IBM Plex Sans-Light y IBM Plex Sans-Bold.
