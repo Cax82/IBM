@@ -29,4 +29,4 @@ La tipografía utilizada en este proyecto es IBM Plex Sans Seminegrita, IBM Plex
 
 ## Complejidad Algorítmica
 
-Sería O(num1 * num2)
+O(num1 * num2)
