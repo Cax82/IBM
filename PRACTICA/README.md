@@ -25,3 +25,8 @@ El proyecto utiliza la paleta de colores de IBM, que incluye: Blue Palette, Cian
 ## Tipografía de IBM
 
 La tipografía utilizada en este proyecto es IBM Plex Sans Seminegrita, IBM Plex Sans-Light y IBM Plex Sans-Bold.
+
+
+## Complejidad Algorítmica
+
+Sería O(num1 * num2)
