@@ -30,3 +30,15 @@ La tipografía utilizada en este proyecto es IBM Plex Sans Seminegrita, IBM Plex
 ## Complejidad Algorítmica
 
 O(num1 * num2)
+
+
+## Contacto
+
+Pablo D. Antón Gorgoroso
+
+email: cascaronster@gmail.com
+
+## Repositorio GitHub del Proyecto
+
+[https://github.com/Cax82/IBM/tree/main/PRACTICA](https://github.com/Cax82/IBM/tree/main/PRACTICA)
+
