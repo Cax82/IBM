@@ -37,4 +37,4 @@ Pablo D. Antón Gorgoroso
 email: cascaronster@gmail.com  <br><br>
 ## Repositorio GitHub del Proyecto
 
-[https://github.com/Cax82/IBM/tree/main/PRACTICA](https://github.com/Cax82/IBM/tree/main/PRACTICA)
+[https://github.com/Cax82/IBM](https://github.com/Cax82/IBM)
