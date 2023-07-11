@@ -1,9 +1,6 @@
 # Trabajo Final - Curso Full Stack de IBM
 
-Este proyecto consiste en un programa en Python que genera una matriz de tamaño NxN y la llena con números aleatorios entre 0 y 9. El programa luego calcula la suma de los elementos de cada fila y columna de la matriz, y finalmente imprime dichas sumas.
-
-
-
+Este proyecto consiste en un programa en Python que genera una matriz de tamaño NxN y la llena con números aleatorios entre 0 y 9. El programa luego calcula la suma de los elementos de cada fila y columna de la matriz, y finalmente imprime dichas sumas. <br><br>
 
 ## Características del programa
 
@@ -19,38 +16,25 @@ Este proyecto consiste en un programa en Python que genera una matriz de tamaño
 
 **Manejo de excepciones:** El programa incluye manejo de excepciones para casos en los que el usuario ingrese un valor no válido para N.
 
-**Comentarios y test unitarios:** El programa incluye comentarios explicativos en el código y se realizan los test unitarios necesarios para asegurar el resultado esperado.
+**Comentarios y test unitarios:** El programa incluye comentarios explicativos en el código y se realizan los test unitarios necesarios para asegurar el resultado esperado.<br><br>
 
+## Paleta de colores de IBM 
 
-
-
-## Paleta de colores de IBM
-
-El proyecto utiliza la paleta de colores de IBM, que incluye: Blue Palette, Cian Palette, Cool Grey, Orange Palette y Teal Palette.
-
-
-
+El proyecto utiliza la paleta de colores de IBM, que incluye: Blue Palette, Cian Palette, Cool Grey, Orange Palette y Teal Palette. <br><br>
 
 ## Tipografía de IBM
 
-La tipografía utilizada en este proyecto es IBM Plex Sans Seminegrita, IBM Plex Sans-Light y IBM Plex Sans-Bold.
-
-
+La tipografía utilizada en este proyecto es IBM Plex Sans Seminegrita, IBM Plex Sans-Light y IBM Plex Sans-Bold.<br><br>
 
 ## Complejidad Algorítmica
 
-O(num1 * num2)
-
-
+O(num1 * num2)<br><br>
 
 ## Contacto
 
 Pablo D. Antón Gorgoroso
 
-email: cascaronster@gmail.com
-
-
-
+email: cascaronster@gmail.com  <br><br>
 ## Repositorio GitHub del Proyecto
 
 [https://github.com/Cax82/IBM/tree/main/PRACTICA](https://github.com/Cax82/IBM/tree/main/PRACTICA)
