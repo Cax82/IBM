@@ -2,6 +2,9 @@
 
 Este proyecto consiste en un programa en Python que genera una matriz de tamaño NxN y la llena con números aleatorios entre 0 y 9. El programa luego calcula la suma de los elementos de cada fila y columna de la matriz, y finalmente imprime dichas sumas.
 
+
+
+
 ## Características del programa
 
 **Generación de la matriz:** El programa genera una matriz cuadrada de tamaño NxN, donde N es un número entero ingresado por el usuario.
@@ -18,13 +21,20 @@ Este proyecto consiste en un programa en Python que genera una matriz de tamaño
 
 **Comentarios y test unitarios:** El programa incluye comentarios explicativos en el código y se realizan los test unitarios necesarios para asegurar el resultado esperado.
 
+
+
+
 ## Paleta de colores de IBM
 
 El proyecto utiliza la paleta de colores de IBM, que incluye: Blue Palette, Cian Palette, Cool Grey, Orange Palette y Teal Palette.
 
+
+
+
 ## Tipografía de IBM
 
 La tipografía utilizada en este proyecto es IBM Plex Sans Seminegrita, IBM Plex Sans-Light y IBM Plex Sans-Bold.
+
 
 
 ## Complejidad Algorítmica
@@ -32,11 +42,14 @@ La tipografía utilizada en este proyecto es IBM Plex Sans Seminegrita, IBM Plex
 O(num1 * num2)
 
 
+
 ## Contacto
 
 Pablo D. Antón Gorgoroso
 
 email: cascaronster@gmail.com
+
+
 
 ## Repositorio GitHub del Proyecto
 
